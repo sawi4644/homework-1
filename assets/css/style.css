@@ -1,9 +1,10 @@
+/* all element style */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*body style */
 body {
     background-color: #d9dcd6;
 }
